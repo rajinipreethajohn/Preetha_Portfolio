@@ -30,4 +30,11 @@ The dataset we will use, which has been previously mined and extracted from GitH
 
 pulls_2011-2013.csv contains the basic information about the pull requests, and spans from the end of 2011 up to (but not including) 2014. pulls_2014-2018.csv contains identical information, and spans from 2014 up to 2018. pull_files.csv contains the files that were modified by each pull request.
 
-![graph](/images/Scala.png))
+![graph](/images/Scala.png)
+
+
+
+[Project 4: A Visual History of Nobel Prize Winners : Project Overview](https://github.com/rajinipreethajohn/Nobel-Prize-Winners)
+The Nobel Prize is perhaps the world's most well known scientific award. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right? Let's dive in!
+
+![graph](/images/Female_Nobel_winners.png)
