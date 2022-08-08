@@ -6,3 +6,5 @@ Given the large number of movies and series available on the platform, it is a p
 As evidence of this, they have provided us with the following information. For the years from 2011 to 2020, the average movie durations are 103, 101, 99, 100, 100, 95, 95, 96, 93, and 90, respectively.
 
 A good place to start would be to start working with pandas! Let's dive right in!
+
+(https://github.com/rajinipreethajohn/Preetha_Portfolio/blob/main/images/Netflix.png)
