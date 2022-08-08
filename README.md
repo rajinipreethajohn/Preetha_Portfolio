@@ -7,4 +7,4 @@ As evidence of this, they have provided us with the following information. For t
 
 A good place to start would be to start working with pandas! Let's dive right in!
 
-![graph](https://github.com/rajinipreethajohn/Preetha_Portfolio/blob/main/images/Netflix.png)
+![graph](/images/Netflix.png)
