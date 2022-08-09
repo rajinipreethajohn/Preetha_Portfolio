@@ -1,4 +1,4 @@
-# H1 [Project 1: Investigating Netflix Movies and Guest Stars in The Office : View project source code on Github](https://github.com/rajinipreethajohn/Netflix)
+# [Project 1: Investigating Netflix Movies and Guest Stars in The Office : View project source code on Github](https://github.com/rajinipreethajohn/Netflix)
 
 Project Overview: Netflix! What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021.
 
@@ -13,7 +13,7 @@ A good place to start would be to start working with pandas! Let's dive right in
 
 
 
-***[Project 2: The Android app market on Google Play : View project source code on Github](https://github.com/rajinipreethajohn/Android-App-Market)
+# [Project 2: The Android app market on Google Play : View project source code on Github](https://github.com/rajinipreethajohn/Android-App-Market)
 
 Project Overview: Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise.
 
@@ -21,7 +21,7 @@ Project Overview: Mobile apps are everywhere. They are easy to create and can be
 
 
 
-***[Project 3: The GitHub History of the Scala Language : View project source code on Github](https://github.com/rajinipreethajohn/Scala-Language)
+# [Project 3: The GitHub History of the Scala Language : View project source code on Github](https://github.com/rajinipreethajohn/Scala-Language)
 
 Project Overview: With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.
 
@@ -37,7 +37,7 @@ pulls_2011-2013.csv contains the basic information about the pull requests, and 
 
 
 
-***[Project 4: A Visual History of Nobel Prize Winners : View project source code on Github](https://github.com/rajinipreethajohn/Nobel-Prize-Winners)
+# [Project 4: A Visual History of Nobel Prize Winners : View project source code on Github](https://github.com/rajinipreethajohn/Nobel-Prize-Winners)
 
 Project Overview: The Nobel Prize is perhaps the world's most well known scientific award. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right? Let's dive in!
 
