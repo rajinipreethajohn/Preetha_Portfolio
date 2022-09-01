@@ -4,7 +4,7 @@
 
 <ins>Technology:</ins> Python
 
-<ins>Tools and techniques used:</ins> **Pandas library, Natural Language Processing (NPL) from sklearn library**
+<ins>Tools and techniques used:</ins> **Pandas, Matplotlib, regular expression library, wordcloud library, CountVectorizer & Natural Language Processing (NPL) from sklearn**
 
 <ins>Project tasks:</ins>
   *Loading the NIPS papers
@@ -22,47 +22,106 @@
 
 
 
-# [Project 2: Investigating Netflix Movies and Guest Stars in The Office : View project source code on Github](https://github.com/rajinipreethajohn/Netflix)
+# [Project 2 Overview: Investigating Netflix Movies and Guest Stars in The Office : View project source code on Github](https://github.com/rajinipreethajohn/Netflix)
 
-Project Overview: Netflix! What started in 1997 as a DVD rental service has since exploded into the largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021.
+<ins>Project Desciption:</ins> Netflix! Boasting over 200 million subscribers as of January 2021. In this project I have discovered how Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office".
 
-Given the large number of movies and series available on the platform, it is a perfect opportunity to flex our data manipulation skills and dive into the entertainment industry.  For their first order of business, they have been performing some analyses, and they believe that the average duration of movies has been declining.
+<ins>Technology:</ins> Python
 
-As evidence of this, they have provided us with the following information. For the years from 2011 to 2020, the average movie durations are 103, 101, 99, 100, 100, 95, 95, 96, 93, and 90, respectively.
+<ins>Tools and techniques used:</ins> **Pandas, Matplotlib**
 
-A good place to start would be to start working with pandas! Let's dive right in!
+<ins>Project tasks:</ins> 
+*Loading your friend's data into a dictionary
+*Creating a DataFrame from a dictionary
+*A visual inspection of our data
+*Loading the rest of the data from a CSV
+*Filtering for movies!
+*Creating a scatter plot
+*Digging deeper
+*Marking non-feature films
+*Plotting with color!
+*What next?
+
+<ins>Topics:</ins>  **1.Data Manipulation 2.Data Visualization 3.Programming**
 
 ![graph](/images/Netflix.png)
 
 
 
 
-# [Project 3: The Android app market on Google Play : View project source code on Github](https://github.com/rajinipreethajohn/Android-App-Market)
+# [Project 3 Overview: The Android app market on Google Play : View project source code on Github](https://github.com/rajinipreethajohn/Android-App-Market)
 
-Project Overview: Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise.
+<ins>Project Desciption:</ins> Mobile apps are everywhere.In this project, I did a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. The insights in the data help us devise strategies to drive growth and retention.
+
+<ins>Technology:</ins> Python
+
+<ins>Tools and techniques used:</ins> **Pandas, NumPy, Matplotlib, Seaborn**
+
+<ins>Project tasks:</ins>
+*Google Play Store apps and reviews
+*Data cleaning
+*Correcting data types
+*Exploring app categories
+*Distribution of app ratings
+*Size and price of an app
+*Relation between app category and app price
+*Filter out "junk" apps
+*Popularity of paid apps vs free apps
+*Sentiment analysis of user reviews
+
+<ins>Topics:</ins>  **1.Data Manipulation 2.Data Visualization 3.Probability & Statistics 4.Importing & Cleaning Data**
 
 ![graph](/images/Android.png)
 
 
 
-# [Project 4: The GitHub History of the Scala Language : View project source code on Github](https://github.com/rajinipreethajohn/Scala-Language)
+# [Project 4 Overview: The GitHub History of the Scala Language : View project source code on Github](https://github.com/rajinipreethajohn/Scala-Language)
 
-Project Overview: With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.
+<ins>Project Desciption:</ins> Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. In this project, I have read in, cleaned up, and visualized the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. Also have found out who has had the most influence on its development and who are the experts.
 
-Scala is also an open source project. Open source projects have the advantage that their entire development histories -- who made changes, what was changed, code reviews, etc. -- are publicly available.
+<ins>Technology:</ins> Python
 
-We're going to read in, clean up, and visualize the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). We will find out who has had the most influence on its development and who are the experts.
+<ins>Tools and techniques used:</ins> **Joining data with Pandas, Matplotlib**
 
-The dataset we will use, which has been previously mined and extracted from GitHub, is comprised of three files:
+<ins>Project tasks:</ins>
+*Scala's real-world project repository data
+*Preparing and cleaning the data
+*Merging the DataFrames
+*Is the project still actively maintained?
+*Is there camaraderie in the project?
+*What files were changed in the last ten pull requests?
+*Who made the most pull requests to a given file?
+*Who made the last ten pull requests on a given file?
+*The pull requests of two special developers
+*Visualizing the contributions of each developer
 
-pulls_2011-2013.csv contains the basic information about the pull requests, and spans from the end of 2011 up to (but not including) 2014. pulls_2014-2018.csv contains identical information, and spans from 2014 up to 2018. pull_files.csv contains the files that were modified by each pull request.
+<ins>Topics:</ins>  **1.Data Manipulation 2.Data Visualization 3.Importing & Cleaning Data**
 
 ![graph](/images/Scala.png)
 
 
 
-# [Project 5: A Visual History of Nobel Prize Winners : View project source code on Github](https://github.com/rajinipreethajohn/Nobel-Prize-Winners)
+# [Project 5 Overview: A Visual History of Nobel Prize Winners : View project source code on Github](https://github.com/rajinipreethajohn/Nobel-Prize-Winners)
 
-Project Overview: The Nobel Prize is perhaps the world's most well known scientific award. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right? Let's dive in!
+<ins>Project Desciption:</ins> In this Project, I have tried to explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? 
+
+<ins>Technology:</ins> Python
+
+<ins>Tools and techniques used:</ins> **Pandas, NumPy, Matplotlib, Seaborn**
+
+<ins>Project tasks:</ins>
+*The most Nobel of Prizes
+*So, who gets the Nobel Prize?
+*USA dominance
+*USA dominance, visualized
+*What is the gender of a typical Nobel Prize winner?
+*The first woman to win the Nobel Prize
+*Repeat laureates
+*How old are you when you get the prize?
+*Age differences between prize categories
+*Oldest and youngest winners
+*You get a prize!
+
+<ins>Topics:</ins>  **1.Data Manipulation 2.Data Visualization 3.Importing & Cleaning Data**
 
 ![graph](/images/Female_Nobel_winners.png)
