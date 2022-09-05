@@ -17,7 +17,7 @@
 
 <ins>Topics:</ins>  **1.Data Cleaning 2.Data Manipulation 2.Data Visualization 3.Programming 4. Deploying Machine Learning Models**
 
-![graph](/Stroke1.png)
+![graph](/images/Stroke1.png)
 
 # [Project 2 Overview: The trending topics in Machine Learning : View project source code on Github](https://github.com/rajinipreethajohn/The-Trending-Topics-in-Machine-Learning)
 
