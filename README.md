@@ -1,6 +1,27 @@
-# [Project 1 Overview: The trending topics in Machine Learning : View project source code on Github](https://github.com/rajinipreethajohn/The-Trending-Topics-in-Machine-Learning)
+# [Project 1 Overview: Stroke prediction by deploying seven different Machine Learning Models : View project source code on Github](https://github.com/rajinipreethajohn/Stroke-prediction/blob/main/Stroke%20Dataset-%20ML%20models%20and%20prediction.ipynb)
 
-<ins>Project Desciption:</ins> Neural Information Processing Systems (NIPS) is one of the top machine learning conferences in the world where groundbreaking work is published. In this Project, I have analyzed a large collection of NIPS research papers from (1987 to 2017) to discover the latest trends in machine learning.
+<ins>Project Description:</ins> Predicting the probability of a person suffering stroke based on their age, gender, bmi, hypertension,	heart_disease,	ever_married,	work_type,	Residence_type,	avg_glucose_level and smoking_status. Used various ML models to predict and provided the accuracy of these ML models.
+
+<ins>Technology:</ins> Python
+
+<ins>Tools and techniques used:</ins> **Pandas, NumPy, Plotly, Matplotlib, Seaborn, sklearn ML models (Linear Regression, K NEarest Neighbor (KNN), Support Vector Machine (SVM),Gaussian Naive Bayes (GNB), Decision Tree, Random Forest, Gradient Boosting), xgboost, metric score evaluation with sklearn**
+
+<ins>Project tasks:</ins> 
+*Importing Libraries
+*Color Palettes 
+*Reading Dataset
+*Exploratory data analysis- EDA
+*Pandas profiling
+*Auto visualization
+*Model implementation
+
+<ins>Topics:</ins>  **1.Data Cleaning 2.Data Manipulation 2.Data Visualization 3.Programming 4. Deploying Machine Learning Models**
+
+![graph](/Stroke1.png)
+
+# [Project 2 Overview: The trending topics in Machine Learning : View project source code on Github](https://github.com/rajinipreethajohn/The-Trending-Topics-in-Machine-Learning)
+
+<ins>Project Description:</ins> Neural Information Processing Systems (NIPS) is one of the top machine learning conferences in the world where groundbreaking work is published. In this Project, I have analyzed a large collection of NIPS research papers from (1987 to 2017) to discover the latest trends in machine learning.
 
 <ins>Technology:</ins> Python
 
@@ -22,9 +43,9 @@
 
 
 
-# [Project 2 Overview: Investigating Netflix Movies and Guest Stars in The Office : View project source code on Github](https://github.com/rajinipreethajohn/Netflix)
+# [Project 3 Overview: Investigating Netflix Movies and Guest Stars in The Office : View project source code on Github](https://github.com/rajinipreethajohn/Netflix)
 
-<ins>Project Desciption:</ins> Netflix! Boasting over 200 million subscribers as of January 2021. In this project I have discovered how Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office".
+<ins>Project Description:</ins> Netflix! Boasting over 200 million subscribers as of January 2021. In this project I have discovered how Netflix’s movies are getting shorter over time and which guest stars appear in the most popular episode of "The Office".
 
 <ins>Technology:</ins> Python
 
@@ -49,9 +70,9 @@
 
 
 
-# [Project 3 Overview: The Android app market on Google Play : View project source code on Github](https://github.com/rajinipreethajohn/Android-App-Market)
+# [Project 4 Overview: The Android app market on Google Play : View project source code on Github](https://github.com/rajinipreethajohn/Android-App-Market)
 
-<ins>Project Desciption:</ins> Mobile apps are everywhere.In this project, I did a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. The insights in the data help us devise strategies to drive growth and retention.
+<ins>Project Description:</ins> Mobile apps are everywhere.In this project, I did a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. The insights in the data help us devise strategies to drive growth and retention.
 
 <ins>Technology:</ins> Python
 
@@ -75,9 +96,9 @@
 
 
 
-# [Project 4 Overview: The GitHub History of the Scala Language : View project source code on Github](https://github.com/rajinipreethajohn/Scala-Language)
+# [Project 5 Overview: The GitHub History of the Scala Language : View project source code on Github](https://github.com/rajinipreethajohn/Scala-Language)
 
-<ins>Project Desciption:</ins> Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. In this project, I have read in, cleaned up, and visualized the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. Also have found out who has had the most influence on its development and who are the experts.
+<ins>Project Description:</ins> Open source projects contain entire development histories, such as who made changes, the changes themselves, and code reviews. In this project, I have read in, cleaned up, and visualized the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. Also have found out who has had the most influence on its development and who are the experts.
 
 <ins>Technology:</ins> Python
 
@@ -101,9 +122,9 @@
 
 
 
-# [Project 5 Overview: A Visual History of Nobel Prize Winners : View project source code on Github](https://github.com/rajinipreethajohn/Nobel-Prize-Winners)
+# [Project 6 Overview: A Visual History of Nobel Prize Winners : View project source code on Github](https://github.com/rajinipreethajohn/Nobel-Prize-Winners)
 
-<ins>Project Desciption:</ins> In this Project, I have tried to explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? 
+<ins>Project Description:</ins> In this Project, I have tried to explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? 
 
 <ins>Technology:</ins> Python
 
