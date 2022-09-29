@@ -1,19 +1,32 @@
 # [Project 1 Overview: Using SQL on Netflix Data: View project source code on Github](https://github.com/rajinipreethajohn/SQL-on-Netflix-data/blob/main/Using%20SQL%20on%20Netflix%20data.ipynb)
 
-<ins>Project Description:</ins> Predicting the probability of a person suffering stroke based on their age, gender, bmi, hypertension,	heart_disease,	ever_married,	work_type,	Residence_type,	avg_glucose_level and smoking_status. Used various ML models to predict and provided the accuracy of these ML models.
+<ins>Project Description:</ins> This project is a demonstration of SQL Syntax using the Netflix Movies and TV shows Dataset. We showcase example query on key SQL topics such as SQL Keywords,Data filtering, Joins, Unions, Aggregate functions, temp tables,Window functions etc. This Notebook will serve as an excellent one stopper for reference while writing related SQL projects.
 
 <ins>Technology:</ins> Python, SQL
 
 <ins>Tools and techniques used:</ins> **Pandas, NumPy, Matplotlib, Seaborn, SQL, SQLite **
 
 <ins>Project tasks:</ins> 
-*Importing Libraries
-*Color Palettes 
-*Reading Dataset
-*Exploratory data analysis- EDA
-*Pandas profiling
-*Auto visualization
-*Model implementation
+*select
+*select distinct 
+*select where
+*select and,or,not
+*order by
+*limit values
+*Min,Max,count,avg,sum
+*like
+*in
+*between
+*joins
+*unions
+*case statements
+*sub queries
+*coalesce
+*convert/cast
+*lag/lead
+*row number
+*dense rank
+*with
 
 <ins>Topics:</ins>  **1.Data Cleaning 2.Data Manipulation 2.Data Visualization 3.Querying with SQL**
 
