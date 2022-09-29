@@ -17,7 +17,7 @@
 
 <ins>Topics:</ins>  **1.Data Cleaning 2.Data Manipulation 2.Data Visualization 3.Querying with SQL**
 
-![graph](/images/Stroke1.png)
+![graph](/images/SQLnetflix.png)
 
 # [Project 2 Overview: Stroke prediction by deploying seven different Machine Learning Models : View project source code on Github](https://github.com/rajinipreethajohn/Stroke-prediction/blob/main/Stroke%20Dataset-%20ML%20models%20and%20prediction.ipynb)
 
