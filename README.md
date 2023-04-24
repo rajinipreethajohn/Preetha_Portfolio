@@ -1,4 +1,4 @@
-# [Project 1 Overview: Image Classifier using a simple CNN architecture : View project source code on Github](https://github.com/rajinipreethajohn/Image-Classification/blob/main/image_classification.ipynb)
+# [Project 1 Overview: Image Classifier using a CNN architecture : View project source code on Github](https://github.com/rajinipreethajohn/ImageClassification_CNN_85Accuracy/blob/main/CIFAR10_CNN.ipynb)
 
 <ins>Project Description:</ins> This project is an implementation of a convolutional neural network (CNN) for image classification using the CIFAR-10 dataset. The goal of this project is to train a model to recognize and classify images into one of ten classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
 
@@ -10,17 +10,17 @@
 *Load CIFAR 10 dataset
 *Preprocessing
  normalizing the pixel values to the range of 0 to 1 and converting the labels to one-hot encoding
-*Define the model architecture: Simple CNN architecture using the Keras Sequential API
+*Define the model architecture: CNN architecture using the CNN Sequential model
 *Compile the model
  compile the model by specifying the loss function, optimizer, and evaluation metrics
 *Train the model
 *Evaluate the model
 *Conclusion
-*Alternatives for incresing model accuracy
+*Saving the model for reproducing and increasing model accuracy
 
-<ins>Topics:</ins>  **1.Data Manipulation 2.Importing & Cleaning Data 4. Preprocessing data 5. Define model architecture 6. Train and evaluate model**
+<ins>Topics:</ins>  **1.Data Loading 2.Visualizing data 4. Preprocessing data 5. Define model architecture 6. Train and evaluate model 7.Make predictions 8.Evaluate predictions**
 
-![graph](/images/image_classification.png)
+![graph](/images/CNN_85.png)
 
 
 # [Project 2 Overview: Spam/Ham Classifier : View project source code on Github](https://github.com/rajinipreethajohn/SPAM_classifier/blob/main/SpamClassifier.ipynb)
