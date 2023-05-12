@@ -1,4 +1,4 @@
-# [Project 1 Overview: Image Converter App: View project source code on Github](https://github.com/rajinipreethajohn/Image_Converter_App/blob/main/README.md)
+# [Project 1 Overview: Image Converter Streamlit App: View project source code on Github](https://github.com/rajinipreethajohn/Image_Converter_App/blob/main/README.md)
 
 <ins>Project Description:</ins> This project is an implementation of a computer vision which allows you to convert your favorite photo to different effects such as a pencil sketch, a grayscale image, or an image with a blurring effect.
 
