@@ -52,7 +52,7 @@
 
 ![graph](/images/img3.png)
 
-# [Project 2 Overview: Image Classifier using a CNN architecture : View project source code on Github](https://github.com/rajinipreethajohn/ImageClassification_CNN_85Accuracy/blob/main/CIFAR10_CNN.ipynb)
+# [Project Overview: Image Classifier using a CNN architecture : View project source code on Github](https://github.com/rajinipreethajohn/ImageClassification_CNN_85Accuracy/blob/main/CIFAR10_CNN.ipynb)
 
 <ins>Project Description:</ins> This project is an implementation of a convolutional neural network (CNN) for image classification using the CIFAR-10 dataset. The goal of this project is to train a model to recognize and classify images into one of ten classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
 
