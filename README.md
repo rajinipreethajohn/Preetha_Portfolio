@@ -18,7 +18,7 @@
 <ins>Topics:</ins>  **1. Get a copy of Auto-train from Hugging face 2. Create a folder for train data with images 3. Run the code 4. Save generated images 5.Be creative with prompts**
 
 ![graph](/images/IMG_4414.JPG)
-![graph](/images/IM8.JPEG)
+![graph](/images/im8.JPEG)
 ![graph](/images/IMG_4377.JPG)
 
 
