@@ -1,3 +1,27 @@
+# [Project Overview: Vitual Avatars with Stable Diffusion: View project source code on Github](https://github.com/rajinipreethajohn/VirtualAvatars_StableDiffusion/blob/main/README.md)
+
+<ins>Project Description:</ins> This project was a fun project aimed at creating virtual avatars of me using Stable diffusion XL on Hugging Face. I trained the model with ~7 images of me on  Google Colab and generated my vitual avatars. The model is able to generate a wide variety of virtual avatars of me based on my prompts.
+
+<ins>Technology:</ins> Python
+
+<ins>Tools and techniques used:</ins> **Stable diffusion**
+
+<ins>Project tasks:</ins>
+*Download a copy of Autotrain of stable diffusion from Hugging Face for Google Colab.
+*Make necessary changes to the code cells to fit your project needs.
+*Create a folder for train data
+*Import good quality images that you will train the model on (Mine were ~7)
+*Run the code cells
+*Save the results in a new folder, so it does not wipe out the images of your train data
+*Be creative in your prompts to get a wide variety of virtual avatars
+
+<ins>Topics:</ins>  **1. Get a copy of Auto-train from Hugging face 2. Create a folder for train data with images 3. Run the code 4. Save generated images 5.Be creative with prompts**
+
+![graph](/images/IMG_4414.JPG)
+![graph](/images/IM8.JPEG)
+![graph](/images/IMG_4377.JPG)
+
+
 # [Project Overview: Face Body Recognition in real time: View project source code on Github](https://github.com/rajinipreethajohn/FaceBodyRecognition_ComputerVision)
 
 <ins>Project Description:</ins> This project is an implementation of a computer vision in order to real time detect: face, left and right hands and body poses and map it to expressions of happy, sad or being victorious.
