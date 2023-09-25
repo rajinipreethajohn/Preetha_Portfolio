@@ -1,3 +1,26 @@
+# [Project Overview: Data Visualization of Popular Programming Languages: View project source code on Github](https://github.com/rajinipreethajohn/Popular_Programming_Languages/blob/main/README.md)
+
+<ins>Project Description:</ins> This project highlights the beauty of data visualization using bar chart race. It was created on Google Colab using pandas and bar chart race libraries
+
+<ins>Technology:</ins> Python
+
+<ins>Tools and techniques used:</ins> **Pandas,Bar-chart-race**
+
+<ins>Project tasks:</ins>
+*Download dataset
+*Pip install bar chart race
+*Load dataset via pandas
+*Visualize using bar-chart-race for a period of 19 years
+*Create an mp4 file showing the bar  chart race amongst the various programming langueages
+*Save your mp4 file
+
+## Play video
+
+https://github.com/rajinipreethajohn/Preetha_Portfolio/assets/72058664/469b2a72-d86c-401c-8556-9da3401c25fc
+
+
+
+
 # [Project Overview: Vitual Avatars with Stable Diffusion: View project source code on Github](https://github.com/rajinipreethajohn/VirtualAvatars_StableDiffusion/blob/main/README.md)
 
 <ins>Project Description:</ins> This project was a fun project aimed at creating virtual avatars of me using Stable diffusion XL on Hugging Face. I trained the model with ~7 images of me on  Google Colab and generated my vitual avatars. The model is able to generate a wide variety of virtual avatars of me based on my prompts.
