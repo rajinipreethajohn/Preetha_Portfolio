@@ -1,3 +1,25 @@
+# [Project Overview: Streamlit App for Tennis: View project source code on Github](https://github.com/rajinipreethajohn/Streamlit_Tennis/blob/main/README.md)
+
+<ins>Project Description:</ins> This project was created by me as I am a die-hard fan of Tennis and also a player. Since this is more of a hobby, I wanted to create an app that can give readily available info about Tennis Grand Slams over the years. It includes data from 1950 all the way to early 2023. 
+
+<ins>Technology:</ins> Python
+
+<ins>Tools and techniques used:</ins> **Pandas,Streamlit,Plotly**
+
+<ins>Project tasks:</ins>
+*Download dataset
+*Install relevant libraries and packages
+*Clean the data
+*Create visualizations on Streamlit, first locally
+*Once the app functions well on the local machine, push it to Stremlit cloud and delpoy the app
+
+## Play video
+
+https://github.com/rajinipreethajohn/Streamlit_Tennis/assets/72058664/05b24301-bae2-4121-8071-9815bd685086
+
+
+
+
 # [Project Overview: Data Visualization of Popular Programming Languages: View project source code on Github](https://github.com/rajinipreethajohn/Popular_Programming_Languages/blob/main/README.md)
 
 <ins>Project Description:</ins> This project highlights the beauty of data visualization using bar chart race. It was created on Google Colab using pandas and bar chart race libraries
