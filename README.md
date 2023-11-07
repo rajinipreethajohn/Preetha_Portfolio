@@ -1,4 +1,4 @@
-# [Project Overview: Streamlit App for Stock Prediction: View project source code on Github](https://github.com/rajinipreethajohn/Streamlit_Tennis/blob/main/README.md)
+# [Project Overview: Streamlit App for Stock Prediction: View project source code on Github](https://github.com/rajinipreethajohn/Stock-Prediction-App/blob/main/README.md)
 
 [![Visit Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-prediction-app-2023.streamlit.app/)
 
