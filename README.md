@@ -1,3 +1,38 @@
+# [Project Overview: Streamlit App for Stock Prediction: View project source code on Github](https://github.com/rajinipreethajohn/Streamlit_Tennis/blob/main/README.md)
+
+[![Visit Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-prediction-app-2023.streamlit.app/)
+
+
+<ins>Project Description:</ins> This is a web application built with Streamlit, a popular Python library for creating web apps, to predict stock prices using the Prophet forecasting model. Users can select a stock (AAPL, GOOG, MSFT, TSLA) and specify the number of years for the prediction. The app displays the historical stock data, predicts future stock prices, and visualizes the forecasted data and components.
+
+<ins>Technology:</ins> Python
+
+<ins>Tools and techniques used:</ins> **Streamlit, Yfinance, Prophet, Plotly**
+
+<ins>Project tasks:</ins>
+- **User Interface Design:**
+  - Implement a user-friendly interface allowing users to select a stock (AAPL, GOOG, MSFT, TSLA) and specify the number of years for the prediction.
+
+- **Data Loading and Preparation:**
+  - Utilize the `yfinance` library to fetch historical stock data for the selected stock from Yahoo Finance.
+  - Prepare the data in the required format for the Prophet model, renaming columns to "ds" for dates and "y" for stock prices.
+
+- **Visualization:**
+  - Display the raw historical data, including dates, open, and close prices, in a table format.
+  - Create an interactive Plotly chart to visualize the stock's open and close prices over time.
+
+- **Prophet Modeling:**
+  - Instantiate the Prophet model and train it using the prepared historical data to forecast future stock prices.
+  - Generate future dates for the prediction period specified by the user and predict stock prices for these dates.
+
+- **Display Forecasted Data:**
+  - Display the forecasted stock prices and components (trend, weekly, and yearly patterns) in interactive Plotly charts.
+
+- **User Interaction and Experience:**
+  - Ensure a smooth user experience by providing real-time loading messages and interactive charts, allowing users to intuitively understand the forecasted stock data and patterns.
+
+
+
 # [Project Overview: Streamlit App for Tennis: View project source code on Github](https://github.com/rajinipreethajohn/Streamlit_Tennis/blob/main/README.md)
 
 [![Visit Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tennisgrandslamwinners.streamlit.app/)
