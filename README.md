@@ -31,7 +31,8 @@
 - **User Interaction and Experience:**
   - Ensure a smooth user experience by providing real-time loading messages and interactive charts, allowing users to intuitively understand the forecasted stock data and patterns.
 
-![Uploading StockPrediction.png…]()
+<img width="952" alt="StockPrediction" src="https://github.com/rajinipreethajohn/Preetha_Portfolio/assets/72058664/bf652804-b2b1-4aa0-94e1-ee9e67c8253b">
+
 
 
 # [Project Overview: Streamlit App for Tennis: View project source code on Github](https://github.com/rajinipreethajohn/Streamlit_Tennis/blob/main/README.md)
