@@ -1,3 +1,23 @@
+# [Project Overview: Audio To Text transcription: View project source code on Github](https://github.com/rajinipreethajohn/Adding-subtitles-Audio-TO-Text-/blob/main/README.md)
+This Python script utilizes the AssemblyAI API to transcribe an audio or video file and export the transcription as an SRT (SubRip) file.
+
+<ins>Project Description:</ins> This project harnesses the power of the AssemblyAI API to transcribe audio files seamlessly. Whether you're converting videos to text or directly providing audio files, this solution effortlessly generates accurate transcriptions and exports them to SRT files, making content accessibility easier than ever." 
+
+<ins>Technology:</ins> Python
+
+<ins>Tools and techniques used:</ins> **AssemblyAI API**
+
+<ins>Project tasks:</ins>
+1. **Transcription and Audio Processing:** Utilize AssemblyAI API to transcribe audio files and process the transcription data.
+2. **Environment Setup:** Install required Python libraries, including `assemblyai`, for working with the AssemblyAI API.
+3. **API Key Configuration:** Set up the AssemblyAI API key as an environment variable for secure access to the transcription service.
+4. **Transcription Process:** Implement the transcription process by providing the path to the audio file and utilizing the AssemblyAI API for accurate transcriptions.
+5. **Export to SRT File:** Save the transcribed content in SubRip (SRT) format, enabling easy integration with multimedia applications.
+
+
+<img width="680" alt="subs" src="https://github.com/rajinipreethajohn/Preetha_Portfolio/assets/72058664/6b709dce-9105-421b-8ed6-ea0fd5723b25">
+
+
 # [Project Overview: Streamlit App for Stock Prediction: View project source code on Github](https://github.com/rajinipreethajohn/Stock-Prediction-App/blob/main/README.md)
 
 [![Visit Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-prediction-app-2023.streamlit.app/)
