@@ -3,6 +3,8 @@ This Python script utilizes the AssemblyAI API to transcribe an audio or video f
 
 <ins>Project Description:</ins> This project harnesses the power of the AssemblyAI API to transcribe audio files seamlessly. Whether you're converting videos to text or directly providing audio files, this solution effortlessly generates accurate transcriptions and exports them to SRT files, making content accessibility easier than ever." 
 
+<ins>FUN FACT:</ins> The video used in this project to transcribe, is from my own YouTube Channel (NurtureNestTube). Link: https://www.youtube.com/channel/UCaVsVj7Z7f4t_swvEh8iHqA
+
 <ins>Technology:</ins> Python
 
 <ins>Tools and techniques used:</ins> **AssemblyAI API**
